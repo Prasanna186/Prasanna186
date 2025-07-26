@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prasanna Kundurthi
 - 👀 I’m interested in learning new things 
-- 🌱 I’m currently learning DSA and DEVOPS
+- 🌱 I’m currently learning DSA 
 - 💞️ I’m looking to collaborate on DSA Series
 - 📫 How to reach me instagram ID - prasanna_sri_186
 - 😄 Pronouns: Prasanna
